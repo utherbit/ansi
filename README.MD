@@ -23,7 +23,7 @@ import "github.com/utherbit/ansi"
 Для задания формата, цвета фона и цвета текста используйте соответствующие функции и константы из библиотеки ANSI. Пример использования:
 
 ```go
-print(ansi.Format.Colors.Background.SetRGB(255, i, i), " ")
+print(ansi.Format.Colors.Background.SetRGB(255, 0, 0))
 print("Hello, world!")
 print(ansi.Format.Reset)
 ```

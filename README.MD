@@ -29,10 +29,6 @@ print(ansi.Format.Reset)
 ```
 
 Вы также можете использовать другие методы и функции для задания цвета фона и цвета текста:
-- `ansi.Format.Colors.Foreground.SetRGB(red, green, blue)`
-- `ansi.Format.Colors.Background.SetRGB(red, green, blue)`
-
-
 
 ## Лицензия
 

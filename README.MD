@@ -24,6 +24,7 @@ import "github.com/utherbit/ansi"
 
 ```go
 print(ansi.Format.Colors.Background.SetRGB(255, 0, 0))
+print(ansi.Format.Colors.Foreground.Standard.Cyan)
 print("Hello, world!")
 print(ansi.Format.Reset)
 ```
